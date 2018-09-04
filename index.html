@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <title>qiliwomen</title>
+    <link rel="stylesheet" type="text/css" href="./src/assets/css/cssreset.css"/>
+    <link rel="stylesheet" type="text/css" href="src/assets/css/mui.min.css"/>
+		<link rel="icon" href="./src/assets/images/favicon.ico"/>
+		<style type="text/css">
+			.current{
+				color: #ff7899;
+				font-size: 18px;
+			}
+		</style>
+  </head>
+  <body>
+    <div id="app"></div>
+  	<script src="src/js/mui.min.js"></script> 
+  	<script src="src/js/zepto.min.js"></script>
+  	<script src="dist/build.js"></script>
+		<script>
+			mui.init({
+				swipeBack: true //启用右滑关闭功能
+			});
+			var slider = mui("#slider");
+		
+			slider.slider({
+				interval: 3000
+			});
+		
+			var x = document.getElementsByClassName("li-a");
+			for(var i = 0; i < x.length; i++) {
+				x[i].onclick = function() {
+					$(this).siblings().children('.li-a').removeClass('current');
+					for(var j = 0; j < x.length; j++) {
+						x[j].style.color = "#848484";
+						x[j].style.fontSize = "16px";
+					}
+					if(i==1){
+						x[1].style.color = "#848484";
+						x[1].style.fontSize = "16px";
+						x[0].style.color = "#ff7899";
+						x[0].style.fontSize = "18px";
+						
+					}
+					this.style.color = "#ff7899";
+					this.style.fontSize = "18px";
+		
+				}
+			}
+		
+//			$(".nav-li").on('click',function(){
+//				$(this).siblings().children('.li-a').removeClass('current');
+//				$(this).children('.li-a').addClass('current');
+//			})
+		
+			! function(b, h, g) {
+				var f = h.getElementsByTagName("html")[0],
+					a = f.offsetWidth,
+					e = (a > 640) ? 20 : a / 32,
+					c = document.createElement("style");
+				c.type = "text/css";
+				c.innerHTML = "html {font-size:" + e + "px}";
+				h.getElementsByTagName("head")[0].appendChild(c);
+				b.em_basic = e
+			}(window, document);
+		</script>
+		
+		
+  </body>
+</html>

@@ -1,0 +1,42 @@
+{
+	"list":[
+		{
+			"title":"孕妇去水肿吃什么",
+			"pic":"/src/assets/images/index/list01.jpg",
+			"depict":"亲子",
+			"time":"08-15",
+			"like":"985"
+		},
+		{
+			"title":"快来学做这六款网红焖饭",
+			"pic":"/src/assets/images/index/list02.jpg",
+			"depict":"健康",
+			"time":"08-15",
+			"like":"966"
+		},
+		{
+			"title":"孕妇可以吃夜宵吗",
+			"pic":"/src/assets/images/index/list03.jpg",
+			"depict":"亲子",
+			"time":"08-15",
+			"like":"1234"
+		},
+		{
+			"title":"孕早期没胃口吃什么",
+			"pic":"/src/assets/images/index/list04.jpg",
+			"depict":"亲子",
+			"time":"08-15",
+			"like":"985"
+		},
+		{
+			"title":"排骨怎么炖好吃又营养",
+			"pic":"/src/assets/images/index/list05.gif",
+			"depict":"健康",
+			"time":"08-15",
+			"like":"1421"	
+		}
+	
+	
+	]
+	
+}

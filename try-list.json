@@ -1,0 +1,41 @@
+{
+	"list":[
+		{
+			"title":"宣致蜗牛焕颜亮夫水嫩面膜",
+			"pic":"src/assets/images/tryOn/list01.png",
+			"try":"50",
+			"like":"810",
+			"deadline":"10天12时"
+			
+		},
+		{
+			"title":"宣致明眸焕彩蜗牛眼霜",
+			"pic":"src/assets/images/tryOn/list02.png",
+			"try":"45",
+			"like":"449",
+			"deadline":"09天01时"
+		},
+		{
+			"title":"鲜芒能量快线代餐饮料",
+			"pic":"src/assets/images/tryOn/list03.png",
+			"try":"50",
+			"like":"309",
+			"deadline":"05天06时"
+		},
+		{
+			"title":"宣致蜗牛精华原液",
+			"pic":"src/assets/images/tryOn/list04.png",
+			"try":"40",
+			"like":"224",
+			"deadline":"10天06时"
+		},
+		{
+			"title":"Avene雅漾舒护活泉水喷雾",
+			"pic":"src/assets/images/tryOn/list05.png",
+			"try":"30",
+			"like":"223",
+			"deadline":"05天07时"
+		}
+	
+	]
+}

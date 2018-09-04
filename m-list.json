@@ -1,0 +1,50 @@
+{
+	"list":[
+		{
+			"title":"用什么颜色的口红显白",
+			"pic":"/src/assets/images/makeup/m-list01.png",
+			"depict":"彩妆",
+			"time":"6小时前",
+			"like":"1985"
+		},
+		{
+			"title":"秋冬口红色号推荐",
+			"pic":"/src/assets/images/makeup/m-list02.jpg",
+			"depict":"彩妆",
+			"time":"14小时前",
+			"like":"1204"
+		},
+		{
+			"title":"嘻哈妆怎么化",
+			"pic":"/src/assets/images/makeup/m-list03.jpg",
+			"depict":"彩妆",
+			"time":"1天前发布",
+			"like":"1826"
+		},
+		{
+			"title":"清纯妆容教程",
+			"pic":"/src/assets/images/makeup/m-list04.jpg",
+			"depict":"彩妆",
+			"time":"1天前发布",
+			"like":"1712"
+		},
+		{
+			"title":"美妆自拍教程",
+			"pic":"/src/assets/images/makeup/m-list05.png",
+			"depict":"彩妆",
+			"time":"1天前发布",
+			"like":"1459"
+		},
+		{
+			"title":"派对妆容 新学期要有新妆容",
+			"pic":"/src/assets/images/makeup/m-list06.png",
+			"depict":"彩妆",
+			"time":"1天前发布",
+			"like":"1012"
+		}
+	
+	
+	]
+
+
+}

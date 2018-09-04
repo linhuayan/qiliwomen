@@ -1,0 +1,47 @@
+{
+	"list":[
+		{
+			"title":"穿大衣搭配什么包包",
+			"pic":"/src/assets/images/fashion/f-list01.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"1457"
+		},
+		{
+			"title":"秋冬袜子怎么搭配",
+			"pic":"/src/assets/images/fashion/f-list02.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"2358"
+		},
+		{
+			"title":"男生秋冬穿什么衣服怎么搭配",
+			"pic":"/src/assets/images/fashion/f-list03.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"2444"
+		},
+		{
+			"title":"秋冬穿什么裤子好看",
+			"pic":"/src/assets/images/fashion/f-list04.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"1154"
+		},
+		{
+			"title":"秋冬长靴怎么搭配衣服",
+			"pic":"/src/assets/images/fashion/f-list05.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"2345"
+		},
+		{
+			"title":"打底袜怎么穿好看图片",
+			"pic":"/src/assets/images/fashion/f-list06.png",
+			"depict":"搭配",
+			"time":"1天前发布",
+			"like":"1578"
+		}
+		
+	]
+}
